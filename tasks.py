@@ -115,7 +115,7 @@ else:
 
 #30 What is the differences between any , or : in the syntax
 
-#31 If we need all the conditions to be true we will use 'any'
+#31 If we need all the conditions to be true we will use 'all'
 
 #32 What is the differences between if , elif --
 # if: is the first condition,
